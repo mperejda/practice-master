@@ -33,7 +33,7 @@ describe Fixnum do
     3.in_words.should == 'three'
     4.in_words.should == 'four'
     5.in_words.should == 'five'
-    6.in_words.should == 'six'
+    6.in_words.should == 'six' 
     7.in_words.should == 'seven'
     8.in_words.should == 'eight'
     9.in_words.should == 'nine'

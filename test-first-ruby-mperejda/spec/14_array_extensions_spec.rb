@@ -10,7 +10,7 @@ require "14_array_extensions" # we don't call it "array.rb" since that would be 
 describe Array do
 
   describe "#sum" do
-    it "has a #sum method" do
+    it "has a #sum method" do 
       [].should respond_to(:sum)
     end
 

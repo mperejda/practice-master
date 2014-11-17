@@ -1,7 +1,7 @@
 # # Topics
 #
 # * blocks
-# * closures
+# * closures 
 # * yield
 # * loops
 
